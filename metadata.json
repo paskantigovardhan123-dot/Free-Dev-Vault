@@ -1,0 +1,6 @@
+{
+  "name": "StarForge - GitHub Star Launchpad & Dev Tools 2026",
+  "description": "Interactive Awesome-Free-Dev-Tools 2026 directory, DevPath developer roadmaps, in-browser CLI suite, and GitHub star launch kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
